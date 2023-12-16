@@ -1,0 +1,14 @@
+/Users/Prince/Desktop/c#/bin/Debug/net8.0/c#
+/Users/Prince/Desktop/c#/bin/Debug/net8.0/c#.deps.json
+/Users/Prince/Desktop/c#/bin/Debug/net8.0/c#.runtimeconfig.json
+/Users/Prince/Desktop/c#/bin/Debug/net8.0/c#.dll
+/Users/Prince/Desktop/c#/bin/Debug/net8.0/c#.pdb
+/Users/Prince/Desktop/c#/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Prince/Desktop/c#/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/Users/Prince/Desktop/c#/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/Users/Prince/Desktop/c#/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/Users/Prince/Desktop/c#/obj/Debug/net8.0/c#.dll
+/Users/Prince/Desktop/c#/obj/Debug/net8.0/refint/c#.dll
+/Users/Prince/Desktop/c#/obj/Debug/net8.0/c#.pdb
+/Users/Prince/Desktop/c#/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/Users/Prince/Desktop/c#/obj/Debug/net8.0/ref/c#.dll
